@@ -1,0 +1,2 @@
+ankusha bet ₹50 guessed 3 actual: 2 balance: ₹150
+Ankusha bet ₹50 guessed 6 actual: 8 balance: ₹600
